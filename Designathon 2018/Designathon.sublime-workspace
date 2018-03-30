@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10684,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/SAMI/Downloads/code/Designathon 2018"
+	],
+	"file_history":
+	[
+		"/C/Users/SAMI/Downloads/code/Designathon 2018/design.css",
+		"/C/Users/SAMI/Downloads/code/Designathon 2018/index.html",
+		"/C/Users/SAMI/Downloads/code/Designathon 2018/Masscollectivelogo.jpg",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/about.html",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/extra.html",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/projects.html",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/contact.html",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/js/contact.html",
+		"/C/Users/SAMI/Downloads/starter/index.html",
+		"/C/Users/SAMI/Downloads/starter/gallery.html",
+		"/C/Users/SAMI/Downloads/starter/starter-template.css",
+		"/C/Users/SAMI/Downloads/starter/js/script.js",
+		"/C/Users/SAMI/Downloads/starter/about.html",
+		"/C/Users/SAMI/Downloads/starter/js/jquery-slim.min.js",
+		"/C/Users/SAMI/Downloads/starter/js/bootstrap.min.js",
+		"/C/Users/SAMI/Downloads/starter/images/favicon.png",
+		"/C/Users/SAMI/Downloads/starter/css/bootstrap.min.css",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/js/script.js",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/css/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/index.html",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite/script.js",
+		"/C/Users/SAMI/Downloads/code/code-2018/mysite",
+		"/C/Users/SAMI/Downloads/code/codeathon/ammonia.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/insecticides.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/laundry detergent pods.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/antifreeze.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/references.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/about.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/codeathon/index.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/bleach.html",
+		"/C/Users/SAMI/Desktop/Windows 10 Upgrade Assistant.lnk",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/index.html",
+		"/C/Users/SAMI/Downloads/code/codeathon/sulfuric-acid.html",
+		"/C/Users/SAMI/Downloads/code/javascript/to-do/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/javascript/clock/index.html",
+		"/C/Users/SAMI/Downloads/code/javascript/to-do/index.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/playground/functions.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/playground/arrays.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/playground/loops.html",
+		"/C/Users/SAMI/Downloads/code/javascript/playground/if-statements.html",
+		"/C/Users/SAMI/Downloads/code/javascript/playground/variables.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/news-layout/images/snek.jpg",
+		"/C/Users/SAMI/Downloads/code/flexbox/news-layout/index.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/news-layout/style.css",
+		"/C/Users/SAMI/Downloads/code/portfolio/portfolio.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/playground/style.css",
+		"/C/Users/SAMI/Downloads/code/portfolio/about.html",
+		"/C/Users/SAMI/Downloads/code/portfolio/contact.html",
+		"/C/Users/SAMI/Downloads/code/portfolio/style.css",
+		"/C/Users/SAMI/Downloads/code/portfolio/index.html",
+		"/C/Users/SAMI/Downloads/code/flexbox/playground/index.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/turkey.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/oatmeal raisin cookies.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/smoothie.html",
+		"/C/Users/SAMI/Downloads/code/hello-world/memes.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/Cooking.html",
+		"/C/Users/SAMI/Downloads/code/portfolio/home.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/travel.css",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/madagascar.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/about/about.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/Css/about.css",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/australia.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/scotland.html",
+		"/C/Users/SAMI/Downloads/code/travel.lnk",
+		"/C/Users/SAMI/Downloads/code/Cooking/travel/example.html",
+		"/C/Users/SAMI/Downloads/code/hello-world/experiment.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/Css/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/hello-world/css/style.css",
+		"/C/Users/SAMI/Downloads/code/hello-world/style.css",
+		"/C/Users/SAMI/Downloads/code/img/Strawberry-Smoothie.jpg",
+		"/C/Users/SAMI/Downloads/code/hello-world/index.html",
+		"/C/Users/SAMI/Downloads/code/Css/stylesheet.css",
+		"/C/Users/SAMI/Downloads/code/Cooking/img/oatmeal-raisin-cookies.jpg",
+		"/C/Users/SAMI/Downloads/code/Cooking/img/oatmeal raisin cookies.jpg",
+		"/C/Users/SAMI/Downloads/code/hello-world/index2.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/biscuits.html",
+		"/C/Users/SAMI/Downloads/code/Cooking/memes.html",
+		"/C/Users/SAMI/Downloads/code/hello-world/cooking.html",
+		"/C/Users/SAMI/Downloads/code/hello-world/index-2.html",
+		"/C/Users/SAMI/Downloads/code/hello-world/index.2",
+		"/C/Users/SAMI/Downloads/tumblr_n5ax9c8ue71tvy42yo3_250.gif"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10317,
+								10317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Designathon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

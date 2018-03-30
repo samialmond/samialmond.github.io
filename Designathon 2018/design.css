@@ -1,0 +1,37 @@
+element.style {
+}
+
+application.css?1501367815:4
+body {
+    margin: 0pt;
+    background-color: #e9eaed;
+}
+normalize.css?1501367815:19
+body {
+    margin: 0;
+}
+pure.css?1501367815:29
+body {
+    margin: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Inherited from html
+normalize.css?1501367815:9
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+pure.css?1501367815:19
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.spacer {
+    height:20px;
+}
